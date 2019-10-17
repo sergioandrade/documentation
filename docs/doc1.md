@@ -3,7 +3,7 @@ id: doc1
 title: Latin-ish
 sidebar_label: Example Page Added by Github Pages
 ---
-![Arezzo](../img/arezzoco.png)
+![Arezzo](./img/personalize.png)
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
